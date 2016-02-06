@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM mehta/ubuntu
 MAINTAINER mail@abhinavmehta.com
 
 ENV APT_CACHER_NG_VERSION=0.7.26 \
